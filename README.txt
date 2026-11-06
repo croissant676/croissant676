@@ -1,20 +1,15 @@
 Studying computer science @ UT, expecting to graduate in 2028.
-All of my personal projects are stored in another repository, and I only use this account for school now.
 
-git.federated.nexus/kwaso
+I don't use this account anymore. Migrating to:
 
-Note, in the future, this will be migrated to: 
-
-kwaso.moe/git/kwaso
+https://git.kwaso.moe/kwaso
 
 ================
+If you wish to use my projects, use the following Maven repo:
 
-If you wish to use my libraries in your code, use the following repo:
+https://repo.kwaso.moe/kwaso
 
-kwaso.moe/repo/releases
-
-If you wish to use my projects on your own computers, feel free to clone them and run locally!
-* Some of them are missing parts due to regulations. If you want those parts, contact me directly
+Feel free to contact me for assistance with my code or projects!
 
 Contact:
 
